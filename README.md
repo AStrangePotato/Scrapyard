@@ -2,6 +2,8 @@
 
 Make CS2 harder with a real-life flashbang created by a light bar, and shaking recoil to make the game more real!
 
+Created using Python, a cs2.cfg file, and a bit of hardware. Demo avaliable here: https://www.youtube.com/watch?v=v8uHIMJPxEo
+
 # Light bar flashbang circuitry
 
 ![IMG_1678](https://github.com/user-attachments/assets/6803fb5c-b8ff-4513-8f8d-1ca9ab3d0534)
