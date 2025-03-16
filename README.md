@@ -8,7 +8,7 @@ Created using Python, a cs2.cfg file, and a bit of hardware. Demo avaliable here
 
 ![IMG_1678](https://github.com/user-attachments/assets/6803fb5c-b8ff-4513-8f8d-1ca9ab3d0534)
 
-A relay controlled through an arduino is used to toggle the lightbar on and off.
+A relay controlled through an arduino is used to toggle the lightbar on and off. Using arduino's 3.3Volt to control the relay, and 5.5 to provide voltage to the bulb.
 
 ![IMG_1680](https://github.com/user-attachments/assets/fb21ae14-24f6-4afe-9fae-953b6aa5527f)
 
@@ -18,7 +18,7 @@ A USB-C to USB-A cord that is stripped is used to directly power on the lightbar
 
 ![PXL_20250316_004412096](https://github.com/user-attachments/assets/2082795e-ca1b-41c1-9f32-14e63461ce81)
 
-A mosfet circuit that is controlled through another pin on the arduino (leftmost gate) and two power cables are used to provide power to the motor. When the script tells it to, the mosfet will let current through, and power the motor. The platform below is constructed of springs, giving its shaking recoil motion as seen in the demo.
+A circuit that is controlled through another pin on the arduino (leftmost gate) and two power cables are used to provide power to the motor. An external power supply of ~5V is used, to power the motor, which is controlled via the mosfet. When the script tells it to, the mosfet will let current through, and power the motor. The platform below is constructed of springs, giving its shaking recoil motion as seen in the demo.
 
 # Scripting
 
