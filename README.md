@@ -18,7 +18,7 @@ A USB-C to USB-A cord that is stripped is used to directly power on the lightbar
 
 ![PXL_20250316_004412096](https://github.com/user-attachments/assets/2082795e-ca1b-41c1-9f32-14e63461ce81)
 
-A mosfet circuit that is controlled through another pin on the arduino (leftmost gate) and two power cables are used to provide power to the motor. When the script tells it to, the mosfet will let current through, and power the motor.
+A mosfet circuit that is controlled through another pin on the arduino (leftmost gate) and two power cables are used to provide power to the motor. When the script tells it to, the mosfet will let current through, and power the motor. The platform below is constructed of springs, giving its shaking recoil motion as seen in the demo.
 
 # Scripting
 
